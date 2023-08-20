@@ -1,4 +1,4 @@
-module contracts
+module github.com/TiDududu/contracts
 
 go 1.20
 
